@@ -1,4 +1,12 @@
-## Hi there 👋
+## Devyani Rastogi
+
+Hi! I'm a MS in Applied Data Science student at the University of Chicago. I graduated from NYU in May 2024 with a major in Economics and a double minor in Data Science and Business. I have also spent time building things for the United Nations before starting my program at UChicago. Most of my work lives at the intersection of NLP, messy real-world data, and the gap between "technically works" and "actually useful."
+
+I'm particularly interested in how language models can make dense institutional knowledge more accessible and in building pipelines that hold up under production constraints, not just on clean datasets.
+
+Happy to connect! 
+
+[LinkedIn](https://www.linkedin.com/in/devyanirastogi/) · devyanirastogi@uchicago.edu
 
 <!--
 **devyanirastogi/devyanirastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

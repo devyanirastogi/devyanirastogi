@@ -6,4 +6,4 @@ I'm intrigued by the intersection of data, economic systems, and technology, par
 
 Outside of work, I love exploring new restaurants and cafes, making art, and occasionally going down rabbit holes about the possibility of aliens.
 
-[Let's connect!](https://www.linkedin.com/in/devyanirastogi/) • [Email (potentially for some food recs)](mailto:devyanirastogi@uchicago.edu)
+[Let's connect!](https://www.linkedin.com/in/devyanirastogi/) • [Email me (especially if you have food recs)](mailto:devyanirastogi@uchicago.edu)

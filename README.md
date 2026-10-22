@@ -1,6 +1,6 @@
 Hey there!🙋🏻‍♀️
 
-I'm [Devyani](https://www.linkedin.com/in/devyanirastogi/), currently an Applied Data Science student at the University of Chicago. Previously, I was at [@UN-ICC](https://github.com/UN-ICC) and graduated from NYU in 2024, where I studied Economics and Data Science. 
+I'm [Devyani](https://www.linkedin.com/in/devyanirastogi/), currently an Applied Data Science student at the University of Chicago. Previously, I was at [UNICC](https://www.linkedin.com/company/unicc/posts/) and graduated from NYU in 2024, where I studied Economics and Data Science. 
 
 I'm intrigued by the intersection of data, economic systems, and technology, particularly the economics of technological change. 
 
